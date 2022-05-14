@@ -3,7 +3,9 @@
 Esta página está destinada para las personas interesadas en la electrónica y programación
 
 char nombre[5] = "Hola";
+
 usart_init();	
+
     while (1) 
     {
 		for (int c = 0; c < 5; c++)
